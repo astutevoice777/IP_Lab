@@ -1,2 +1,2 @@
 # IP_Lab
-Full assignment lisst
+Full assignment list
